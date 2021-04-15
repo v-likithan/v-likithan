@@ -19,8 +19,8 @@
 
 ## Reach out to me
 
-[![Linkedin Badge](https://img.shields.io/badge/-v-likithan-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/islem-maboud/) [![Mail Badge](https://img.shields.io/badge/-v.likithan-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:v.likithan@gmail.com)
-💻 https://v-likithan.github.io/portfolio/
+
+
 
 ## Profile Visits 
 
