@@ -2,7 +2,7 @@
 
 - 🎓First year Computer Science student at Ryerson University
 - 🔒Passionate about cybersecurity and learning new technologies
-- 🏀Avid sports fanatic
+- 🏀Avid basketball and soccer fanatic
 
 ## Skills
 
