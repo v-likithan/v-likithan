@@ -19,9 +19,9 @@
 ![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![image](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-## Github Stats
+<!--## Github Stats-->
 
-![Likithan's github stats](https://github-readme-stats.vercel.app/api?username=v-likithan&count_private=true&show_icons=true&theme=dark)
+<!--![Likithan's github stats](https://github-readme-stats.vercel.app/api?username=v-likithan&count_private=true&show_icons=true&theme=dark)-->
 
 ## Reach out to me
 
