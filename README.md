@@ -21,7 +21,8 @@
 
 <!--## Github Stats-->
 
-<!--![Likithan's github stats](https://github-readme-stats.vercel.app/api?username=v-likithan&count_private=true&show_icons=true&theme=dark)-->
+<!--[![Likithan's Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=v_likithan)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--![Likithan's Github Stats](https://github-readme-stats.vercel.app/api?username=v-likithan&count_private=true&show_icons=true&theme=dark)-->
 
 ## Reach out to me
 
